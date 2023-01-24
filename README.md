@@ -1,7 +1,7 @@
 # arXiv Chaos!
 Science make too much sense? Worry not! With `arxiv-chaos` you can confuse yourself even more!
 
-`arxiv-chaos` extracts key phrases from arXiv article abstracts for a given search query via an implementation of the Rapid Automatic Keyword Extraction (RAKE) algorithm.
+`arxiv-chaos` extracts key phrases from [arXiv](https://arxiv.org) article abstracts for a given search query via an implementation of the Rapid Automatic Keyword Extraction (RAKE) algorithm.
 
 A CLI program and a web server are provided.
 
