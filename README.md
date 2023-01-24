@@ -32,7 +32,9 @@ After installing the dependencies, the CLI can be run with
 ## Running the web server
 After installing the dependencies, the web server can be run with
 `./run_server`
-The server runs on `127.0.0.1:8000`.
+
+The server runs on `127.0.0.1:8000`
+
 This can be accessed in a web browser or via `curl` with
 `curl 127.0.0.1:8000/search?query=<QUERY>`
 
