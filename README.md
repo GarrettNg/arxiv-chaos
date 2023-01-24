@@ -7,6 +7,8 @@ A CLI program and a web server are provided.
 
 
 ## Installation
+This was developed with python version `3.11`, but `3.10+` should be sufficient for the type annotation features used.
+
 Create a virtual environment
 `python -m venv venv`
 
