@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+uvicorn arxiv_chaos.server:app --reload
